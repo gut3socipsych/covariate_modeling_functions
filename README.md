@@ -1,10 +1,11 @@
-# covariate_modeling_functions
+# Covariate Modeling Functions
 
-Problem: 
+## Problem: 
+
 
 Making multiple regression comparision ... 
 
 
-Proposed Solution: 
+## Proposed Solution: 
 
 Developing a function to ... 
